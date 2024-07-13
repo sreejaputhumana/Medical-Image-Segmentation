@@ -1,2 +1,2 @@
-# Medical-Image-Segmentation
-Medical image segmentation using Gen-AI techniques
+# SegModel - a 3D medical image segmentation model utilizing an autoencoder architecture
+
